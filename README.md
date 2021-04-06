@@ -2,7 +2,7 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjean-jacques10/)](https://www.linkedin.com/in/gabrielpetillo) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/jjeanjacques10/)](https://github.com/gspetillo/) [![Medium](https://img.shields.io/badge/-Medium-FFF?style=flat&logo=medium&logoColor=black&link=https://medium.com/@jjean.jacques10)](https://medium.com/@gspetillo) [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat&logo=Gmail&logoColor=white&link=mailto:gspetillo@gmail.com)](mailto:gspetillo@gmail.com)
 
-<img src="https://lh3.googleusercontent.com/dmtpgxB5vSFd5b1DT583P7Vsg9cRtYGCvKdr5nm-pLPYBG7QL3vzIukBUO8UUjbEcVa9iXprn2NmObIqUx_MkjnsXDM9oSOrnq4e1eTu5woSwwAUF2EZ864dffUXS7nomHrPbKmQ83TczcvLc-xPxa4re3Ke_-VvvO3iZqzwi4hzmaMrjx4sOD06hnRtDFvx2rb5_DJiZDtP5YpVPRA15-yyMfDG9vmDXREOsGWamThm2uEpeoGDg_18tlkSjSRXL771xVKGpA7Nrt1Amh9ZLsvyfcnaJHV_M4Ba9LMy7FS5RbXPoiylqlNSN8gZ3m7ayinlS561P8NRD2OQKHd3R46VZIhPU3PTV2iEqfC-Qaz0dHZ9mo4pKlbWoyMuOTnuMFNs1O9dsHA_Xe0K57X79zY8C5ce-QIdQuWDLuaoDCtz2P2KIgsLHxOxQyLmQNPPRbYKUSCiEWqigqHBSYzdxShgSYhth2WjtxayexkPB0idgR286JABvEetdlFVkZzPeTtAYZ8iBbaQGGSV8Ct1jsjYKnpNfObic99el4Oc8RUNlYgkiZPxg_t2UihQPuiRxmQrZZDyR5gF3ywrgdR82KQ4T3tCXpwu1_gKIin5iLY2JWXZq26h6uhhBbebFCiP2NZFL_KI0iI0qjF-bPxs8DYgNsunmEUGLqAQQHP4tZmyFoaHaHySffw6ymnhyGtzGbp6d7fCgjyedmEKZdWDvGDU=s635-no?authuser=0" min-width="250px" max-width="250px" width="250px" align="right" alt="Gabriel Petiilo Profile Photo" style="border-radius: 50%; position:relative; z-index:99" >
+<img src="./foto_GabrielPetillo_Linkedin.jpg" min-width="250px" max-width="250px" width="250px" align="right" alt="Gabriel Petillo Profile Photo" style="border-radius: 50%; position:relative; z-index:99" >
 
 ## 👨 About Me
 
@@ -32,7 +32,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-766cdc?style=flat&logoColor=white&logo=kotlin) 
 ![Swift](https://img.shields.io/badge/-Swift-f44d2b?style=flat&logoColor=white&logo=swift) 
 
-
 #### 🎛 Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logoColor=white&logo=git) 
 ![SVN](https://img.shields.io/badge/-SVN-7c97c2?style=flat&logoColor=white&logo=subversion) 
@@ -54,23 +53,18 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37726?style=flat&logoColor=white&logo=jupyter) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-20D68B?style=flat&logoColor=white&logo=pycharm) 
 
-
-
-
 #### 💻 Operational Systems
 ![Microsoft Windows](https://img.shields.io/badge/-Microsoft_Windows-00A8E8?style=flat&logoColor=white&logo=windows) 
 ![Android](https://img.shields.io/badge/-Android-3bd580?style=flat&logoColor=white&logo=android)
-![IOS](https://img.shields.io/badge/-iOS-9A9999?style=flat&logoColor=white&logo=ios) 
+![IOS](https://img.shields.io/badge/-iOS-9A9999?style=flat&logoColor=white&logo=apple) 
 ![Docker](https://img.shields.io/badge/-Docker-2391E6?style=flat&logoColor=white&logo=docker) 
 
 #### 🗺 Conversational Languages
-
 ![Brazilian Portuguese](https://img.shields.io/badge/-Brazilian_Portuguese:_Native-009638?style=flat&logoColor=white) 
 ![English](https://img.shields.io/badge/-English:_Intermediate_(B2)-39386B?style=flat&logoColor=white) 
 ![Spanish](https://img.shields.io/badge/-Spanish:_Basic-C00B1D?style=flat&logoColor=white) 
 
 #### 💬 Other Skills
-
 ![Agile Methodologies](https://img.shields.io/badge/-Agile_Methodologies-ddd?style=flat&logoColor=white)
 ![Branding](https://img.shields.io/badge/-Branding-ddd?style=flat&logoColor=white)
 ![Creativity](https://img.shields.io/badge/-Creativity-ddd?style=flat&logoColor=white)
@@ -87,9 +81,7 @@
 ![UML](https://img.shields.io/badge/-UML-ddd?style=flat&logoColor=white)
 ![UX](https://img.shields.io/badge/-UX-ddd?style=flat&logoColor=white) 
 ![Web Design](https://img.shields.io/badge/-Web_Design-ddd?style=flat&logoColor=white)
-
 <br>
-
 ## 🧾 GitHub Statistics
 <center>
   <table>
