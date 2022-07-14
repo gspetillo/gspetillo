@@ -10,7 +10,7 @@
 ## 👨🏻‍🦱 About Me
 
 
-### ⭐ **Atlas Product Owner @ Cromai | Student in CTEDS @ Poli-USP | Freelance IT Solutions Consultant | Information Systems Bachelor @ FIAP**
+### ⭐ Atlas Product Owner @ Cromai <br> ⭐ Student in CTEDS @ Poli-USP <br> ⭐ Freelance IT Solutions Consultant <br> ⭐ Information Systems Bachelor @ FIAP <br> ⭐ Professional in Internet Information Technology @ FIEB
 
 <br>
 <p>
