@@ -14,8 +14,9 @@
 
 <br>
 <p>
-👥 **Community Manager** at [PM3](https://www.linkedin.com/company/pm3-educacao/), dedicated to communication, community engagement and event operations; <br><br>
  
+👥 **Community Manager** at [PM3](https://www.linkedin.com/company/pm3-educacao/), dedicated to communication, community engagement and event operations; <br><br>
+
 🎙️ Former **Instructor & Ambassador** at PM3 (2023–2026), presenting and recording content for online courses, including the AI applied to Business sprint, and representing PM3 at Product Camp Brasil 2023, 2024 and 2025; <br><br>
 
 🏓 **State-level Table Tennis Referee (Nível I)** certified by [CBTM](https://www.cbtm.org.br/) – Confederação Brasileira de Tênis de Mesa, officiating official matches and events in São Paulo state; <br><br>
