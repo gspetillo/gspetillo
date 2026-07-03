@@ -15,12 +15,19 @@
 <br>
 <p>
 👥 **Community Manager** at [PM3](https://www.linkedin.com/company/pm3-educacao/), dedicated to communication, community engagement and event operations; <br><br>
+ 
 🎙️ Former **Instructor & Ambassador** at PM3 (2023–2026), presenting and recording content for online courses, including the AI applied to Business sprint, and representing PM3 at Product Camp Brasil 2023, 2024 and 2025; <br><br>
+
 🏓 **State-level Table Tennis Referee (Nível I)** certified by [CBTM](https://www.cbtm.org.br/) – Confederação Brasileira de Tênis de Mesa, officiating official matches and events in São Paulo state; <br><br>
+
 💼 **IT Solutions Consultant** at [Gabriel Petillo Consulting](https://www.linkedin.com/company/gabriel-petillo-consulting/), specialized in **Information Technology, Digital Design, Digital Products and Digital Marketing**; <br><br>
+
 📈 **Product Manager** with 3+ years of experience in Digital Products with a focus on **Artificial Intelligence innovations**, having led the **Cromai Atlas** platform from Product Analyst and Software Development Analyst roles; <br><br>
+
 💻 **Graduate** of the [Technological Training in Engineering and Software Development](https://conteudo.ituring.com.br/cteds) at [Poli-USP](https://www.poli.usp.br/); <br><br>
+
 🖥️ **Bachelor** in [Information Systems](https://www.fiap.com.br/graduacao/bacharelado/sistemas-de-informacao/) at [FIAP](https://www.fiap.com.br/), with emphasis on **Software Engineering and Artificial Intelligence**; <br><br>
+
 🌐 **Technical Professional** in [Internet Information Technology (Web Design)](https://fieb.edu.br/curso/informatica-para-internet/) at [FIEB](https://fieb.edu.br/), qualified in **web solutions**; <br><br>
 
 💙 Dedicated to studying and improving subjects related to **product management, AI-powered tools, community building** and **table tennis coaching and refereeing**.
