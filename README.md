@@ -6,7 +6,7 @@
  [![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat&logo=linktree&logoColor=white&link=https://linktr.ee/gabriel.petillo)](https://linktr.ee/gabriel.petillo) &nbsp;
  [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat&logo=Gmail&logoColor=white&link=mailto:gspetillo@gmail.com)](mailto:gspetillo@gmail.com)
 
-<img src="./foto_GabrielPetillo_Linkedin.jpg" min-width="250px" max-width="250px" width="250px" align="right" alt="Gabriel Petillo Profile Photo" style="border-radius: 50%; position:relative; z-index:99" >
+<img src="/foto-linkedin-2026-v4.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Gabriel Petillo Profile Photo" style="border-radius: 50%; position:relative; z-index:99" >
 
 ## 👨🏻‍🦱 About Me
 
